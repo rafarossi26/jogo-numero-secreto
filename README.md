@@ -12,5 +12,5 @@
 
 # Feito por
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/157179053?s=400&u=be83fc8c61449efb7ef825940c05ec9461fabd2f&v=4" width=115><br><p>Rafael Rossi</p>](https://github.com/gabrielle-ribeiro) |  
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/157179053?s=400&u=be83fc8c61449efb7ef825940c05ec9461fabd2f&v=4" width=115><br><p>Rafael Rossi</p>](https://github.com/rafarossi26) |  
 | :---: 
